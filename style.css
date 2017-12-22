@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+}
+body{ 
+	background-image: url(CR5/computer.jpg);
+	background-size: 100%; 
+}
+/* ____________________________Header_________________________________ */
+header{
+	width: 100%;
+	height: 150px;
+	background-color: #7B2389;
+	text-align: center;
+}
+header img{
+	margin-top: 30px;
+	width: 40%;
+}
+/* __________________________Hero Section_____________________________ */
+#shade{
+	width: 100%;
+	height: 659px;
+	background-color: rgba(123,35,138,0.3);
+	color: white;
+	font-family: 'Chivo', sans-serif;
+	text-align: center;
+	font-size: 3em;
+}
+#shade h1{
+	padding-top: 10%;
+}
+/* __________________________Person section____________________________ */
+#container{
+	width: 100%;
+	height: 1000px;
+	background-color: white; 
+	position: absolute;
+}
+.box{
+	width: 44%;
+	height: 300px;
+	background-color: rgba(123,35,138,0.3);
+	margin: 5% 0% 0% 4%;
+	float: left;
+}
+button{
+	width: 75px;
+	height: 35px;
+	background-color: #A3D6CF;
+	border: solid gray 1px;
+	border-radius: 10px;
+	font-size: 1.3em;
+	font-weight: bold;
+	float: right;
+	margin-top: 250px;
+	margin-right: 50px;
+}
+/* _____________________________Footer_______________________________ */
+footer{
+	height: 150px;
+	width: 90%;
+	position: absolute;
+	bottom: 0;
+	left: 5%;
+	text-align: center;
+
+}
+footer img{
+	width: 25%;
+	margin-top: 50px;
+}
