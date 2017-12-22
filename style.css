@@ -1,5 +1,6 @@
 *{
 	margin: 0;
+	font-family: 'Chivo', sans-serif;
 }
 body{ 
 	background-image: url(CR5/computer.jpg);
@@ -22,7 +23,6 @@ header img{
 	height: 659px;
 	background-color: rgba(123,35,138,0.3);
 	color: white;
-	font-family: 'Chivo', sans-serif;
 	text-align: center;
 	font-size: 3em;
 }
@@ -43,6 +43,17 @@ header img{
 	margin: 5% 0% 0% 4%;
 	float: left;
 }
+.box img{
+	width: 30%;
+	margin: 20px;
+	float: left;
+}
+.text{
+	float: left;
+	margin-top: 30px;
+	font-size: 1.5em;
+	line-height: 2em;
+}
 button{
 	width: 75px;
 	height: 35px;
@@ -54,6 +65,9 @@ button{
 	float: right;
 	margin-top: 250px;
 	margin-right: 50px;
+}
+.heart{
+	width: 10px;
 }
 /* _____________________________Footer_______________________________ */
 footer{
