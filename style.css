@@ -43,7 +43,7 @@ header img{
 	margin: 5% 0% 0% 4%;
 	float: left;
 }
-.box img{
+.pic{
 	width: 30%;
 	margin: 20px;
 	float: left;
@@ -66,8 +66,16 @@ button{
 	margin-top: 250px;
 	margin-right: 50px;
 }
+.box h1{
+	float: right;
+	margin-top: 249px;
+	margin-right: 10px;
+}
 .heart{
-	width: 10px;
+	width: 40px;
+	float: right;
+	margin-top: 250px;
+	margin-right: 5px;
 }
 /* _____________________________Footer_______________________________ */
 footer{
