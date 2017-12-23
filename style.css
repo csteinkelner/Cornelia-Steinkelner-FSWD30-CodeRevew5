@@ -68,8 +68,11 @@ button{
 }
 .box h1{
 	float: right;
-	margin-top: 249px;
+	margin-top: 235px;
 	margin-right: 10px;
+	color: red;
+	font-weight: bold;
+	font-size: 3.5em;
 }
 .heart{
 	width: 40px;
